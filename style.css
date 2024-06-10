@@ -32,7 +32,6 @@ main{
     flex-direction: column;
     width: 46rem;
     padding: 2.5rem;
-    align-items: flex-start;
     border-radius: 1.5rem;
     background-color: white;
     margin: 8.29rem auto -.39rem;
